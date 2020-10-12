@@ -1,1 +1,3 @@
-console.log("The application ran"); 
+function firstOrNull(array) {
+    return array.length === 0 ? null : array[0];
+}
