@@ -1,3 +1,3 @@
-function firstOrNull(array) {
-    return array.length === 0 ? null : array[0];
-}
+// function firstOrNull(array) {
+//     return array.length === 0 ? null : array[0];
+// }
