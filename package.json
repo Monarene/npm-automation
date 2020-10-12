@@ -1,0 +1,11 @@
+{
+  "name": "npm-automation",
+  "version": "1.0.0",
+  "description": "This package is for creating and looking through npm scripst ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Mekuileyi",
+  "license": "ISC"
+}
