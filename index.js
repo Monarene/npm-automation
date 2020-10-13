@@ -1,3 +1,4 @@
-// function firstOrNull(array) {
-//     return array.length === 0 ? null : array[0];
-// }
+"use strict";
+function firstOrNull(array) {
+    return array.length === 0 ? null : array[0];
+}
